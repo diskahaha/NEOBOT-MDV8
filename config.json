@@ -1,19 +1,19 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
-    "botName": "NEOBOT-STORE",
-    "footer": "© BOTMD | 2022", 
+    "ownerNumber": "6285880029379@s.whatsapp.net", 
+    "ownerName": "NANS OFFICIAL", 
+    "botName": "BOTZ NANS",
+    "footer": "© BOTZ NANS | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
-    "group": "https://chat.whatsapp.com/DHf4mb8QnmC5zynElmG2tG",
-    "yootube": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
+    "group": "https://wa.me/6285880029379",
+    "yootube": "https://youtube.com/c/NANS_OFFICIAL",
      
-    "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
-    "textBarisDonate1": "Dana : 0857-8900-4732",
-    "textBarisDonate2": "Ovo : 0857-8900-4732",
+    "QrisAllPay": "https://telegra.ph/file/5718e3e369994bca4d0ea.jpg",
+    "textBarisDonate1": "Dana : 0858-8002-9379",
+    "textBarisDonate2": "Ovo : 08xxxxxxxxx",
     "textBarisDonate3": "Gopay : 08xxxxxxxxx",
-    "textBarisDonate4": "Pulsa : 0857-8900-4732",
+    "textBarisDonate4": "Pulsa : 0851-7207-8604",
   
     "ButtonTextMenu1": "Youtube",
     "ButtonTextMenu2": "Rest Api",
@@ -21,8 +21,8 @@
     "quickReplyButton4": "Donasi",
     "quickReplyButton5": "Dashboard",
   
-    "ButtonMenuLink1": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
-    "ButtonMenuLink2": "https://api-lexxy-official.herokuapp.com",
+    "ButtonMenuLink1": "https://youtube.com/c/NANS_OFFICIAL",
+    "ButtonMenuLink2": "http://botz-nans.herokuapp.com",
     "displayTextMenu3": "rules",
     "displayTextMenu4": "donasi",
     "displayTextMenu5": "dashboard",
@@ -30,7 +30,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Lexxy Official"
+        "packname": "BOTZ",
+        "author": "NANS"
     }
 }
